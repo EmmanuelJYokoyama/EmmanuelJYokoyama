@@ -1,7 +1,7 @@
 ## Opa, eu sou o Emmanuel Yokoyama!
 <div align="center">
   <a href="https://github.com/EmmanuelJYokoyama">
-  <img height="180em" src="[![EmmanuelJYokoyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelJYokoyama)](https://github.com/EmmanuelJYokoyama/github-readme-stats)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seixasluan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelJYokoyama&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
