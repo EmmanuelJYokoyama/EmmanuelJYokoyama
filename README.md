@@ -5,17 +5,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelJYokoyama&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Japa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Japa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Japa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Japa-Ub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Japa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Japa-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-   <img align="center" alt="Japa-KT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain-wordmark.svg">
+            <img src="https://skillicons.dev/icons?i=php" />
+            <img src="https://skillicons.dev/icons?i=js" />
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+            <img src="https://skillicons.dev/icons?i=kotlin" />
+            <img src="https://skillicons.dev/icons?i=python" />
+            <img src="https://skillicons.dev/icons?i=docker" />
+            <img src="https://skillicons.dev/icons?i=cs" />
+            <img src="https://skillicons.dev/icons?i=laravel" />
+            <img src="https://skillicons.dev/icons?i=aws" />
+            <img src="https://skillicons.dev/icons?i=flask" />
+            <img src="https://skillicons.dev/icons?i=ts" />
+            <img src="https://skillicons.dev/icons?i=mysql" />
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+            <img src="https://skillicons.dev/icons?i=git" />
+            <img src="https://skillicons.dev/icons?i=c" />
+            <img src="https://skillicons.dev/icons?i=dotnet" />
+            <img src="https://skillicons.dev/icons?i=sqlite" />
+            <img src="https://skillicons.dev/icons?i=rails" />
+            <img src="https://skillicons.dev/icons?i=tailwind" />
+            <img src="https://skillicons.dev/icons?i=css" />
+            <img src="https://skillicons.dev/icons?i=html" />
+            <img src="https://skillicons.dev/icons?i=postman" />
+            <img src="https://skillicons.dev/icons?i=java" />
+            <img src="https://skillicons.dev/icons?i=figma" />
+            <img height="48" width="48" id="n8n" src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" />
+            <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
 
 </div>
   
