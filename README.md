@@ -1,6 +1,6 @@
 ## Olá, eu sou o Emmanuel Yokoyama!
 
-<img align="right" src="https://media.licdn.com/dms/image/v2/D4D03AQGmCZd7t22zCA/profile-displayphoto-scale_400_400/B4DZipeWO9H4Ak-/0/1755189962229?e=1766016000&v=beta&t=pmqgsCk54PfqBKmAN_PCBxdH69F589lprxvOrrsiufs" alt="" width="250"/>
+<img align="right" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="" width="200"/>
 
 ### Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na *Fatec São José dos Campos - Prof. Jessen Vidal*. <br>
 Sempre tive interesse pela área de tecnologia, inicialmente através da influência familiar, por ter parentes da área. Foi durante a infância que tive meu primeiro contato com programação ao desenvolver modpacks para o jogo Minecraft. Era um desenvolvimento de funcionalidades básicas e de complexidade baixa. No ensino médio, me matriculei em um ensino concomitante ao técnico em informática, que me deu a minha base principal e foi onde eu decidi que seria a minha carreira. E assim que me formei, conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade para evoluir, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
