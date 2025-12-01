@@ -1,10 +1,27 @@
-## Opa, eu sou o Emmanuel Yokoyama!
-<div align="center">
-  <a href="https://github.com/EmmanuelJYokoyama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelJYokoyama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelJYokoyama&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaMatesco&theme=dark">
-</div>
+## Olá, eu sou o Emmanuel Yokoyama!
+
+<img align="right" src="https://media.licdn.com/dms/image/v2/D4D03AQGmCZd7t22zCA/profile-displayphoto-scale_400_400/B4DZipeWO9H4Ak-/0/1755189962229?e=1766016000&v=beta&t=pmqgsCk54PfqBKmAN_PCBxdH69F589lprxvOrrsiufs" alt="" width="250"/>
+
+### Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na *Fatec São José dos Campos - Prof. Jessen Vidal*. <br>
+Sempre tive interesse pela área de tecnologia, inicialmente através da influência familiar, por ter parentes da área. Foi durante a infância que tive meu primeiro contato com programação ao desenvolver modpacks para o jogo Minecraft. Era um desenvolvimento de funcionalidades básicas e de complexidade baixa. No ensino médio, me matriculei em um ensino concomitante ao técnico em informática, que me deu a minha base principal e foi onde eu decidi que seria a minha carreira. E assim que me formei, conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade para evoluir, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
+
+Meus principais ganhos em hard skill e soft skills foram através das APIs (Aprendizagem por Projetos Integrados) desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas e pensamento crítico. Nesse período, tive a oportunidade de aprender, aplicar e aprimorar meu conhecimento em diversas tecnologias, como Python junto ao Flask, JavaScript, TypeScript, Docker, serviços Cloud, Java com Spring Boot, React, MySQL, MongoDB, gerenciamento de projetos com Jira e outros, seja em projetos acadêmicos quanto em projetos pessoais. 
+Além das competências técnicas, desenvolvi habilidades interpessoais e experiência com metodologias ágeis, atuando como desenvolvedor no time de desenvolvimento e como Product Owner.
+<br>
+
+## Contatos
+
+<p>
+  <a href="https://www.instagram.com/emmanuel.yokoyama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:emmanuelnoronha3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emmanuelyokoyama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/emmanuelyokoyama"> <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white&color=2196de"></img></a>
+</p>
+
+<br>
+
+## Meus Principais Conhecimentos
+
 <div style="display: inline_block"><br>
             <img src="https://skillicons.dev/icons?i=php" />
             <img src="https://skillicons.dev/icons?i=js" />
@@ -39,11 +56,6 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/emmanuel.yokoyama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:emmanuelnoronha3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emmanuelyokoyama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
