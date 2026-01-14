@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="" width="200"/>
 
-### Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na *Fatec São José dos Campos - Prof. Jessen Vidal*. <br>
+### Estudante do 4º Semestre de Desenvolvimento de Software Multiplataforma na *Fatec São José dos Campos - Prof. Jessen Vidal*. <br>
 Sempre tive interesse pela área de tecnologia, inicialmente através da influência familiar, por ter parentes da área. Foi durante a infância que tive meu primeiro contato com programação ao desenvolver modpacks para o jogo Minecraft. Era um desenvolvimento de funcionalidades básicas e de complexidade baixa. No ensino médio, me matriculei em um ensino concomitante ao técnico em informática, que me deu a minha base principal e foi onde eu decidi que seria a minha carreira. E assim que me formei, conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade para evoluir, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
 
 Meus principais ganhos em hard skill e soft skills foram através das APIs (Aprendizagem por Projetos Integrados) desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas e pensamento crítico. Nesse período, tive a oportunidade de aprender, aplicar e aprimorar meu conhecimento em diversas tecnologias, como Python junto ao Flask, JavaScript, TypeScript, Docker, serviços Cloud, Java com Spring Boot, React, MySQL, MongoDB, gerenciamento de projetos com Jira e outros, seja em projetos acadêmicos quanto em projetos pessoais. 
